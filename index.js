@@ -9,4 +9,4 @@ client.once('ready', () => {
 
 client.on('error', console.error);
 
-bot.login(process.env.token);
+bot.login("ODUyNTM4NTc1MDM0NTE1NDg2.YMISaw.IM8edNBqkWkiRv2Z3mvrYu9JCaQ");
